@@ -31,6 +31,6 @@ body:not(.header-demo) .header.header.navbar-scrolling .scroll-logo {
 
 @media only screen and (max-width: 767px) {
   .sp-image-container .sp-image{
-
+display:none;
     }
 }
