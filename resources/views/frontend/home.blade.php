@@ -4,7 +4,6 @@
     @include('frontend.partials.featured')
     @include('frontend.partials.offer')
     @include('frontend.partials.numbers')
-    @include('frontend.partials.about')
     @include('frontend.partials.questions')
     @include('frontend.partials.top')
     @include('frontend.partials.testimonials')

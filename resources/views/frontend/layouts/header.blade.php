@@ -14,7 +14,7 @@
         <li>
             <h4><a href="">Mobile sidebar</a></h4>
         </li>
-        <li class="dropdown"><a class="dropdown-toggle" href="url{{('/')}}" data-toggle="dropdown">Home<b class="caret"></b></a>
+        <li><a href="{{url('/')}}">Home</a>
             {{--<ul class="dropdown-menu" role="menu">--}}
                 {{--<li><a href="home.html" tabindex="-1">Home one page</a>--}}
                 {{--</li>--}}
@@ -22,9 +22,9 @@
                 {{--</li>--}}
             {{--</ul>--}}
         </li>
-        <li><a href="url{{('/')}}">About us</a>
+        <li><a href="{{url('/')}}">About us</a>
         </li>
-        <li><a href="url{{('/')}}">Products</a>
+        <li><a href="{{url('/')}}">Products</a>
         </li>
         <li class="dropdown"><a class="dropdown-toggle" href="url{{('/')}}" data-toggle="dropdown">Services<b class="caret"></b></a>
             {{--<ul class="dropdown-menu" role="menu">--}}
