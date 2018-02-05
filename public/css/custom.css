@@ -15,9 +15,9 @@ body:not(.header-demo) .header.header.navbar-scrolling .scroll-logo {
 
 }
 /*slider top margin*/
-.main-slider-2 {
-    margin-top: 1px;
-}
+/*.main-slider-2 {*/
+    /*margin-top: 1px;*/
+/*}*/
 /*about us home*/
 .b-about__inner {
     padding-right: 320px;
@@ -25,9 +25,12 @@ body:not(.header-demo) .header.header.navbar-scrolling .scroll-logo {
     background: url("../../assets/media/content/bg/bg-bike.png") no-repeat 100% 55px;
     margin-right: 100px;
 }
+.main-slider-2 {
+    margin-top: 117px;
+}
+
 @media only screen and (max-width: 767px) {
-  .sp-image{
-      display:none;
-      background-image: url("../../assets/media/components/b-main-slider/mobslide.png") no-repeat 100% 55px;
+  .sp-image-container .sp-image{
+
     }
 }
