@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="text-center">
-                        <h2 class="ui-title-block">What We Offers</h2>
+                        <h2 class="ui-title-block">What We Offer</h2>
                         <div class="ui-subtitle-block">Tempor incididunt labore dolore duis lorem magna aliqua sed ipsum</div>
                         <div class="ui-decor"></div>
                     </div>

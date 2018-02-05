@@ -75,10 +75,10 @@
                     <div class="col-md-3">
                         <section class="footer-section">
                             <h3 class="footer-section__title ui-title-inner">Address Information</h3>
-                            <div class="footer-contact footer-contact_lg">Call us<span class="text-primary"> (042) 789 35490</span>
+                            <div class="footer-contact footer-contact_lg">Call us<span class="text-primary"> (985) 111 1111</span>
                             </div>
-                            <div class="footer-contact"><i class="icon icon-xs fa fa-envelope-o"></i>support@motorland.com</div>
-                            <div class="footer-contact"><i class="icon icon-lg fa fa-map-marker"></i>Fairview Ave, El Monte, CA, 91732</div>
+                            <div class="footer-contact"><i class="icon icon-xs fa fa-envelope-o"></i>support@tvs.com</div>
+                            <div class="footer-contact"><i class="icon icon-lg fa fa-map-marker"></i>Kathmandu, Nepal, 44600</div>
                             <div class="footer-contact"><i class="icon fa fa-clock-o"></i>Mon - Fri : 0900am to 0600pm</div>
                         </section>
                     </div>
@@ -88,7 +88,7 @@
         <div class="copyright">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12">Copyrights 2017<a class="copyright__brand" href="home.html"> MOTORLAND</a> All Rights Reserved<a class="copyright__link" href="privacy-policy.html">Privacy Policy</a><a class="copyright__link" href="terms-of-use.html">Terms & Conditions</a>
+                    <div class="col-xs-12">Copyrights 2017<a class="copyright__brand" href=""> TVS</a> All Rights Reserved<a class="copyright__link" href="">Privacy Policy</a><a class="copyright__link" href="">Terms & Conditions</a>
                     </div>
                 </div>
             </div>

@@ -10,7 +10,7 @@
                 <div class="carousel-news owl-carousel owl-theme owl-theme_w-btn enable-owl-carousel" data-min768="2" data-min992="3" data-min1200="3" data-margin="30" data-pagination="false" data-navigation="true" data-auto-play="4000" data-stop-on-hover="true">
                     <section class="b-post b-post-1 clearfix">
                         <div class="entry-media">
-                            <img class="img-responsive" src="assets/media/content/posts/360x250/1.jpg" alt="Foto" />
+                            <img class="img-responsive" src="assets/media/content/posts/360x250/slide1.png" alt="Foto" />
                         </div>
                         <div class="entry-main">
                             <div class="entry-header">
@@ -47,7 +47,7 @@
                     <!-- end .post-->
                     <section class="b-post b-post-1 clearfix">
                         <div class="entry-media">
-                            <img class="img-responsive" src="assets/media/content/posts/360x250/2.jpg" alt="Foto" />
+                            <img class="img-responsive" src="assets/media/content/posts/360x250/slide1.png" alt="Foto" />
                         </div>
                         <div class="entry-main">
                             <div class="entry-header">
@@ -84,7 +84,7 @@
                     <!-- end .post-->
                     <section class="b-post b-post-1 clearfix">
                         <div class="entry-media">
-                            <img class="img-responsive" src="assets/media/content/posts/360x250/3.jpg" alt="Foto" />
+                            <img class="img-responsive" src="assets/media/content/posts/360x250/slide1.png" alt="Foto" />
                         </div>
                         <div class="entry-main">
                             <div class="entry-header">
@@ -121,7 +121,7 @@
                     <!-- end .post-->
                     <section class="b-post b-post-1 clearfix">
                         <div class="entry-media">
-                            <img class="img-responsive" src="assets/media/content/posts/360x250/1.jpg" alt="Foto" />
+                            <img class="img-responsive" src="assets/media/content/posts/360x250/slide1.png" alt="Foto" />
                         </div>
                         <div class="entry-main">
                             <div class="entry-header">
@@ -158,7 +158,7 @@
                     <!-- end .post-->
                     <section class="b-post b-post-1 clearfix">
                         <div class="entry-media">
-                            <img class="img-responsive" src="assets/media/content/posts/360x250/2.jpg" alt="Foto" />
+                            <img class="img-responsive" src="assets/media/content/posts/360x250/slide1.png" alt="Foto" />
                         </div>
                         <div class="entry-main">
                             <div class="entry-header">
@@ -195,7 +195,7 @@
                     <!-- end .post-->
                     <section class="b-post b-post-1 clearfix">
                         <div class="entry-media">
-                            <img class="img-responsive" src="assets/media/content/posts/360x250/3.jpg" alt="Foto" />
+                            <img class="img-responsive" src="assets/media/content/posts/360x250/slide1.png" alt="Foto" />
                         </div>
                         <div class="entry-main">
                             <div class="entry-header">

@@ -10,4 +10,8 @@ class FrontendController extends Controller
     {
         return view('frontend.home');
     }
+    public function booking()
+    {
+        return view('frontend.partials.booking');
+    }
 }

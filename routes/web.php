@@ -12,3 +12,4 @@
 */
 
 Route::get('/', 'FrontEndController@home')->name('home');
+Route::get('/booking', 'FrontEndController@booking')->name('booking');

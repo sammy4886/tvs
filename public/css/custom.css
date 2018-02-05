@@ -1,4 +1,27 @@
-.sp-slides .sp-slide .sp-image {
-height:700px;
-width: 1920px;
+/*.sp-slides .sp-slide .sp-image {*/
+/*height:700px;*/
+/*width: 1920px;*/
+/*}*/
+/*logo css*/
+body:not(.header-demo) .header.header.navbar-scrolling .scroll-logo {
+    display: block !important;
+    height:60px;
+    width:202px;
+}
+.header.header-logo-black .scroll-logo {
+    display: block !important;
+    height:60px;
+    width:202px;
+
+}
+/*slider top margin*/
+.main-slider-2 {
+    margin-top: 1px;
+}
+/*about us home*/
+.b-about__inner {
+    padding-right: 320px;
+    padding-bottom: 40px;
+    background: url("../../assets/media/content/bg/bg-bike.png") no-repeat 100% 55px;
+    margin-right: 100px;
 }

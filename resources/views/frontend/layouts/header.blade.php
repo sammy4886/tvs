@@ -7,48 +7,48 @@
 <!-- ==========================-->
 <div data-off-canvas="mobile-slidebar left overlay">
     <a class="navbar-brand scroll" href="home.html">
-        <img class="normal-logo img-resonsive visible-xs visible-sm" src="assets/media/general/logo.png" alt="logo" />
-        <img class="scroll-logo img-resonsive hidden-xs hidden-sm" src="assets/media/general/logo-dark.png" alt="logo" />
+        <img class="normal-logo img-resonsive visible-xs visible-sm" src="assets/media/general/logo.png" alt="logo"/>
+        <img class="scroll-logo img-resonsive hidden-xs hidden-sm" src="assets/media/general/logo-dark.png" alt="logo"/>
     </a>
     <ul class="nav navbar-nav">
         <li>
             <h4><a href="">Mobile sidebar</a></h4>
         </li>
-        <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Home<b class="caret"></b></a>
-            <ul class="dropdown-menu" role="menu">
-                <li><a href="home.html" tabindex="-1">Home one page</a>
-                </li>
-                <li><a href="home-2.html" tabindex="-1">Home standart</a>
-                </li>
-            </ul>
+        <li class="dropdown"><a class="dropdown-toggle" href="url{{('/')}}" data-toggle="dropdown">Home<b class="caret"></b></a>
+            {{--<ul class="dropdown-menu" role="menu">--}}
+                {{--<li><a href="home.html" tabindex="-1">Home one page</a>--}}
+                {{--</li>--}}
+                {{--<li><a href="home-2.html" tabindex="-1">Home standart</a>--}}
+                {{--</li>--}}
+            {{--</ul>--}}
         </li>
-        <li><a href="repair-shop.html">Repair Shop</a>
+        <li><a href="url{{('/')}}">About us</a>
         </li>
-        <li><a href="car-rental.html">Car Rental</a>
+        <li><a href="url{{('/')}}">Products</a>
         </li>
-        <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Listings<b class="caret"></b></a>
-            <ul class="dropdown-menu" role="menu">
-                <li><a href="listings-1.html" tabindex="-1">Listings ver 01</a>
-                </li>
-                <li><a href="listings-2.html" tabindex="-1">Listings ver 02</a>
-                </li>
-                <li><a href="listings-3.html" tabindex="-1">Listings ver 03</a>
-                </li>
-            </ul>
+        <li class="dropdown"><a class="dropdown-toggle" href="url{{('/')}}" data-toggle="dropdown">Services<b class="caret"></b></a>
+            {{--<ul class="dropdown-menu" role="menu">--}}
+                {{--<li><a href="listings-1.html" tabindex="-1">Listings ver 01</a>--}}
+                {{--</li>--}}
+                {{--<li><a href="listings-2.html" tabindex="-1">Listings ver 02</a>--}}
+                {{--</li>--}}
+                {{--<li><a href="listings-3.html" tabindex="-1">Listings ver 03</a>--}}
+                {{--</li>--}}
+            {{--</ul>--}}
         </li>
-        <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Blog<b class="caret"></b></a>
-            <ul class="dropdown-menu" role="menu">
-                <li><a href="blog-main.html" tabindex="-1">Blog main</a>
-                </li>
-                <li><a href="blog-post.html" tabindex="-1">Blog post</a>
-                </li>
-            </ul>
+        <li class="dropdown"><a class="dropdown-toggle" href="url{{('/')}}" data-toggle="dropdown">Blog<b class="caret"></b></a>
+            {{--<ul class="dropdown-menu" role="menu">--}}
+                {{--<li><a href="blog-main.html" tabindex="-1">Blog main</a>--}}
+                {{--</li>--}}
+                {{--<li><a href="blog-post.html" tabindex="-1">Blog post</a>--}}
+                {{--</li>--}}
+            {{--</ul>--}}
         </li>
         <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Pages<b class="caret"></b></a>
             <ul class="dropdown-menu" role="menu">
-                <li><a href="car-details.html" tabindex="-1">Car details</a>
+                <li><a href="url{{('/')}}" tabindex="-1">Vehicle details</a>
                 </li>
-                <li><a href="typography.html" tabindex="-1">Typography</a>
+                <li><a href="url{{('/')}}" tabindex="-1">Our Team</a>
                 </li>
             </ul>
         </li>
@@ -185,58 +185,58 @@
                         <button class="menu-mobile-button visible-xs-block js-toggle-mobile-slidebar toggle-menu-button"><i class="toggle-menu-button-icon"><span></span><span></span><span></span><span></span><span></span><span></span></i>
                         </button>
                         <!-- Mobile Trigger End-->
-                        <a class="navbar-brand scroll" href="home.html">
+                        <a class="navbar-brand scroll" href="{{url('')}}">
                             <img class="normal-logo img-responsive" src="assets/media/general/logo.png" alt="logo" />
                             <img class="scroll-logo hidden-xs img-responsive" src="assets/media/general/logo-dark.png" alt="logo" />
                         </a>
                     </div>
                     <div class="header-navibox-3">
                         <ul class="nav navbar-nav hidden-xs clearfix vcenter">
-                            <li>
-                                <div class="header-cart"><a href="#"><i class="icon fa fa-shopping-basket" aria-hidden="true"></i><span class="header-cart-count bg-primary">3</span></a>
-                                </div>
-                            </li>
+                            {{--<li>--}}
+                                {{--<div class="header-cart"><a href="#"><i class="icon fa fa-shopping-basket" aria-hidden="true"></i><span class="header-cart-count bg-primary">3</span></a>--}}
+                                {{--</div>--}}
+                            {{--</li>--}}
                             <li><a class="btn_header_search" href="#"><i class="icon fa fa-search"></i></a>
                             </li>
-                        </ul><a class="btn btn-primary" href="home.html">sell car</a>
+                        </ul><a class="btn btn-primary" href="{{url('/booking')}}">Book A Ride</a>
                     </div>
                     <div class="header-navibox-2">
                         <ul class="yamm main-menu nav navbar-nav">
-                            <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Home<b class="caret"></b></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="home.html" tabindex="-1">Home one page</a>
-                                    </li>
-                                    <li><a href="home-2.html" tabindex="-1">Home standart</a>
-                                    </li>
-                                </ul>
+                            <li class="dropdown"><a class="dropdown-toggle" href="{{url('/')}}" data-toggle="dropdown">Home<b class="caret"></b></a>
+                                {{--<ul class="dropdown-menu" role="menu">--}}
+                                    {{--<li><a href="home.html" tabindex="-1">Home one page</a>--}}
+                                    {{--</li>--}}
+                                    {{--<li><a href="home-2.html" tabindex="-1">Home standart</a>--}}
+                                    {{--</li>--}}
+                                {{--</ul>--}}
                             </li>
-                            <li><a href="repair-shop.html">Repair Shop</a>
+                            <li><a href="{{url('/')}}">Products</a>
                             </li>
-                            <li><a href="car-rental.html">Car Rental</a>
+                            <li><a href="{{url('/')}}">Services</a>
                             </li>
-                            <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Listings<b class="caret"></b></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="listings-1.html" tabindex="-1">Listings ver 01</a>
-                                    </li>
-                                    <li><a href="listings-2.html" tabindex="-1">Listings ver 02</a>
-                                    </li>
-                                    <li><a href="listings-3.html" tabindex="-1">Listings ver 03</a>
-                                    </li>
-                                </ul>
+                            <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">About us<b class="caret"></b></a>
+                                {{--<ul class="dropdown-menu" role="menu">--}}
+                                    {{--<li><a href="listings-1.html" tabindex="-1">Listings ver 01</a>--}}
+                                    {{--</li>--}}
+                                    {{--<li><a href="listings-2.html" tabindex="-1">Listings ver 02</a>--}}
+                                    {{--</li>--}}
+                                    {{--<li><a href="listings-3.html" tabindex="-1">Listings ver 03</a>--}}
+                                    {{--</li>--}}
+                                {{--</ul>--}}
                             </li>
-                            <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Blog<b class="caret"></b></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="blog-main.html" tabindex="-1">Blog main</a>
-                                    </li>
-                                    <li><a href="blog-post.html" tabindex="-1">Blog post</a>
-                                    </li>
-                                </ul>
+                            <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Contact<b class="caret"></b></a>
+                                {{--<ul class="dropdown-menu" role="menu">--}}
+                                    {{--<li><a href="blog-main.html" tabindex="-1">Blog main</a>--}}
+                                    {{--</li>--}}
+                                    {{--<li><a href="blog-post.html" tabindex="-1">Blog post</a>--}}
+                                    {{--</li>--}}
+                                {{--</ul>--}}
                             </li>
                             <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Pages<b class="caret"></b></a>
                                 <ul class="dropdown-menu" role="menu">
-                                    <li><a href="car-details.html" tabindex="-1">Car details</a>
+                                    <li><a href="{{url('/')}}" tabindex="-1"> details</a>
                                     </li>
-                                    <li><a href="typography.html" tabindex="-1">Typography</a>
+                                    <li><a href="{{url('/')}}" tabindex="-1">Typography</a>
                                     </li>
                                 </ul>
                             </li>

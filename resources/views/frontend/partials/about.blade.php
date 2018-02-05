@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-10">
                 <div class="b-about__inner">
-                    <h2 class="ui-title-block">About MotorLand</h2>
+                    <h2 class="ui-title-block">About US</h2>
                     <div class="ui-subtitle-block">Tempor incididunt duis labore dolore magna aliqua sed ipsum</div>
                     <div class="ui-decor"></div>
                     <div class="b-about-main">
