@@ -34,3 +34,6 @@ body:not(.header-demo) .header.header.navbar-scrolling .scroll-logo {
 display:none;
     }
 }
+.sp-image-container .sp-image{
+    width:100%;
+}
