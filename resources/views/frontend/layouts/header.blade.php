@@ -202,7 +202,7 @@
                     </div>
                     <div class="header-navibox-2">
                         <ul class="yamm main-menu nav navbar-nav">
-                            <li class="dropdown"><a class="dropdown-toggle" href="{{url('/')}}" data-toggle="dropdown">Home<b class="caret"></b></a>
+                            <li><a href="{{url('/')}}">Home</a>
                                 {{--<ul class="dropdown-menu" role="menu">--}}
                                     {{--<li><a href="home.html" tabindex="-1">Home one page</a>--}}
                                     {{--</li>--}}

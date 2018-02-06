@@ -1,42 +1,6 @@
    @extends('frontend.main')
    @section('content')
-       <div class="main-slider main-slider-4">
-        <div class="slider-pro" id="main-slider" data-slider-width="100%" data-slider-height="650px" data-slider-arrows="false" data-slider-buttons="false">
-            <div class="sp-slides">
-                <!-- Slide 1-->
-                <div class="sp-slide">
-                    <img class="sp-image" src="assets/media/components/b-main-slider/6.jpg" alt="slider" />
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xs-12">
-                                <div class="sp-layer" data-show-transition="left" data-hide-transition="left" data-show-duration="2000" data-show-delay="1200" data-hide-delay="400">
-                                    <div class="main-slider__label">Do you need a ride?</div>
-                                    <div class="main-slider__title">We offer Faster & Reliable
-                                        <br>Car Rental Service</div><a class="main-slider__btn btn btn-lg btn-white" href="services.html">book now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Slide 2-->
-                <div class="sp-slide">
-                    <img class="sp-image" src="assets/media/components/b-main-slider/7.jpg" alt="slider" />
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xs-12">
-                                <div class="sp-layer" data-show-transition="left" data-hide-transition="left" data-show-duration="2000" data-show-delay="1200" data-hide-delay="400">
-                                    <div class="main-slider__label">Do you need a ride?</div>
-                                    <div class="main-slider__title">We offer Faster & Reliable
-                                        <br>Car Rental Service</div><a class="main-slider__btn btn btn-lg btn-white" href="services.html">book now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- end .main-slider-->
+
     <div class="container">
         <div class="row">
             <div class="col-xs-12">

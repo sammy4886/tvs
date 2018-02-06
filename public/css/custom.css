@@ -34,6 +34,11 @@ body:not(.header-demo) .header.header.navbar-scrolling .scroll-logo {
 display:none;
     }
 }
-.sp-image-container .sp-image{
-    width:100%;
+
+
+
+@media screen and (max-width: 1400px) , screen and (max-height: 700px) {
+    .carousel-inner{
+        height: 100% !important;
+    }
 }
