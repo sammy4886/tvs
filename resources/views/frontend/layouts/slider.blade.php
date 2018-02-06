@@ -1,5 +1,5 @@
 <div class="main-slider main-slider-2">
-    <div class="slider-pro" id="main-slider" data-slider-width="100%" data-slider-height="700px" data-slider-arrows="true" data-slider-buttons="false">
+    <div class="slider-pro" id="main-slider" data-slider-width="1200px" data-slider-height="700px" data-slider-arrows="true" data-slider-buttons="false">
         <div class="sp-slides">
             <!-- Slide 1-->
             <div class="sp-slide">
